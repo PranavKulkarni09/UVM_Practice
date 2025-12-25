@@ -16,8 +16,8 @@ EDA Playground:
 ---
 ## 📊 Progress
 Total Assignments: 12
-- Assignments Completed ✅️ | 0/12
-- Assignments Remaining ⏳ | 12/12
+- Assignments Completed ✅️ | 3/12
+- Assignments Remaining ⏳ | 9/12
 ---
 ## 📌 Disclaimer
 This repository is strictly for educational and learning purposes. All the solutions for this assignment are my own implementation from my own understanding of the concepts.
