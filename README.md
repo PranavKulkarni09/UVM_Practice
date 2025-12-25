@@ -1,7 +1,9 @@
 # UVM Practice
+---
 ## 📌 Overview
 This repository contains my attempt and solution to all the assignments form the Udemy Course - Verification Series Part 3: UVM Essentials.
 The purpose of this repository is not to share solutions, but to demonstrate hands-on learning and progession in understanding the concept thoroughly.
+
 ---
 ## 🎯 Objective
 - Complete all the assignments from the course
@@ -18,5 +20,6 @@ EDA Playground:
 Total Assignments: 12
 - Assignments Completed ✅️ | 0/12
 - Assignments Remaining ⏳ | 12/12
+---
 ## 📌 Disclaimer
 This repository is strictly for educational and learning purposes. All the solutions for this assignment are my own implementation from my own understanding of the concepts.
