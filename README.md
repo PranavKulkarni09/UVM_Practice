@@ -1,9 +1,6 @@
 # UVM Practice
----
 ## 📌 Overview
-This repository contains my attempt and solution to all the assignments form the Udemy Course - Verification Series Part 3: UVM Essentials.
-The purpose of this repository is not to share solutions, but to demonstrate hands-on learning and progession in understanding the concept thoroughly.
-
+- This repository contains my attempt and solution to all the assignments form the Udemy Course - Verification Series Part 3: UVM Essentials. The purpose of this repository is not to share solutions, but to demonstrate hands-on learning and progession in understanding the concept thoroughly.
 ---
 ## 🎯 Objective
 - Complete all the assignments from the course
