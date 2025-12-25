@@ -1,3 +1,6 @@
+`include "uvm_macros.svh"
+import uvm_pkg::*;
+
 module tb;
   initial begin
     uvm_top.set_report_max_quit_count(4);
