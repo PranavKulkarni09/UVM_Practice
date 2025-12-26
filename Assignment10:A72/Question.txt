@@ -1,0 +1,3 @@
+Design an environment consisting of a single producer class "PROD" and three subscribers viz., iz. "SUB1", "SUB2", and "SUB3". 
+Add logic such that the producer broadcasts the name of the coder and all the subscribers are able to receive the string data sent by the producer. 
+If Zen is writing the logic, then the producer should broadcast the string "ZEN" and all the subscribers must receive "ZEN".
