@@ -22,5 +22,5 @@ Total Assignments: 12
 ## 📌 Disclaimer
 - This repository is strictly for educational and learning purposes. All the solutions for this assignment are my own implementation from my own understanding of the concepts.
 ---
-## Side Note:
+## 📝 Side Note:
 Assignment11:A91 and Assignment12:A101 are available as separate repositories on my GitHub page as well.
