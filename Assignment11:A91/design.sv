@@ -17,3 +17,11 @@ module mux
   
   
 endmodule
+
+//Interface module not given in the question
+
+interface mux_if;
+  logic [3:0] a,b,c,d; //input
+  logic [3:0] y; //output
+  logic [1:0] sel;
+endinterface
