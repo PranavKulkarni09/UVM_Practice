@@ -14,8 +14,9 @@ module dff
   
 endmodule
 
-//
+//Interface module not given in the question
 
 interface dff_if;
-  logic clk, rst, din, dout;
+  logic clk, rst, din; //input
+  logic dout; //output
 endinterface
